@@ -1,0 +1,4 @@
+export enum ActionType {
+  SHOW_EVENT = 'SHOW_EVENT',
+  SET_EVENT_FAVORITES = 'SET_EVENT_FAVORITES',
+}

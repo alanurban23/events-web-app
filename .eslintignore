@@ -1,0 +1,4 @@
+*.css
+*.svg
+src/stories/*
+src/__stories/*

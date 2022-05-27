@@ -1,0 +1,33 @@
+{
+  "events": {
+    "name": "Wydarzenia",
+    "pastEvents": "Wcześniejsze Wydarzenia",
+    "pendingEvents": "Trwające Wydarzenia",
+    "upcomingEvents": "Nadchodzące Wydarzenia",
+    "favouriteEvents": "Ulubione Wydarzenia",
+    "event": {
+      "image": "obrazek wydarzenia",
+      "show": "Pokaż",
+      "like": "Lubię",
+      "dislike": "Nie lubię",
+      "goToEvent": "Przejdź do Wydarzenia"
+    }
+  },
+  "searchEvent": "Wyszukaj Wydarzenie...",
+  "localization": "Lokalizacja",
+  "search": "Wyszukaj",
+  "showMore": "Pokaż więcej",
+  "show": "Pokaż",
+  "add": "Dodaj",
+  "startDate": "Data Rozpoczęcia",
+  "endDate": "Data Zakończenia",
+  "categoryEventsSection": {
+    "tab": "zakładka kategorii wydarzeń"
+  },
+  "emptyData": "Brak Danych",
+  "apiErrors": {
+    "requestFailed": "Problem z załadowaniem danych!"
+  },
+  "loading": "Ładowanie danych...",
+  "notFound": "Nie znaleziono!"
+}
